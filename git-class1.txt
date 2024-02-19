@@ -1,2 +1,4 @@
 Git is version history for codes or projects
 It allows us to save past versions of our codes
+We can check version history in Git
+There are two main areas in Git

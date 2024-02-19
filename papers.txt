@@ -1,3 +1,5 @@
 Physics
 Maths
 English
+Economics
+Data Processing
