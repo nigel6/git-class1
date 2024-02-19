@@ -3,3 +3,4 @@ Maths
 English
 Economics
 Data Processing
+Biology
