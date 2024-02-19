@@ -5,3 +5,5 @@ Economics
 Data Processing
 Biology
 Chemistry
+Further Mathematics
+Geography
