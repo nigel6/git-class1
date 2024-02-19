@@ -4,3 +4,4 @@ English
 Economics
 Data Processing
 Biology
+Chemistry
