@@ -1,0 +1,2 @@
+Git is version history for codes or projects
+It allows us to save past versions of our codes
