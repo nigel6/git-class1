@@ -1,0 +1,2 @@
+We created a new branch called, myupdates, on the local
+All commits on this branch would be merged with the Master on remote
