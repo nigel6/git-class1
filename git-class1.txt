@@ -1,4 +1,4 @@
-Git is version history for codes or projects
+Git is a Version Control System that tracks changes in file(s)
 It allows us to save past versions of our codes
 We can check version history in Git
 There are two main areas in Git
@@ -6,3 +6,4 @@ Staging area is where Git keeps changes that have been picked to go into next ve
 Working area is where all changes we are working on, not yet committed.
 Git branching points to the latest commit in the branch
 Uploading codes to GitHub is known as Push
+GitHub is Source Code Management System
